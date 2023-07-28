@@ -1,5 +1,5 @@
-fastapi
-pydantic
+fastapi==0.99.0
+pydantic==1.10.12
 uvicorn
-litestar
+litestar==2.0.0b4
 a2wsgi

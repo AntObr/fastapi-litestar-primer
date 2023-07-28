@@ -305,3 +305,17 @@ Migrated from Flask to FastAPI and provided some great blog posts about the proc
 <!-- https://engineering.forethought.ai/blog/2022/12/01/migrating-from-flask-to-fastapi-part-1/ -->
 <!-- https://engineering.forethought.ai/blog/2023/02/14/migrating-from-flask-to-fastapi-part-2/ -->
 <!-- https://engineering.forethought.ai/blog/2023/02/28/migrating-from-flask-to-fastapi-part-3/ -->
+
+
+---
+
+**Bonus Round: Litestar**
+
+Community Focused
+Class Based Controllers
+Not a Micro-framework
+Fast(er)API
+
+Caveats: Detailed Docs
+
+<!-- https://github.com/AntObr/fastapi-litestar-primer -->
